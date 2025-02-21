@@ -21,9 +21,11 @@
 ![SpeechRecognition](https://img.shields.io/badge/speech_recognition-%23013243.svg?style=for-the-badge)  
 
 ---
+
 title: "Voice-to-Voice Translator"
 emoji: 🎙️
 app_file: app.py
+
 ---
 
 
