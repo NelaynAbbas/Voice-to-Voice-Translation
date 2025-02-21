@@ -23,7 +23,9 @@
 ---
 
 title: "Voice-to-Voice Translator"
+
 emoji: 🎙️
+
 app_file: app.py
 
 ---
